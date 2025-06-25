@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: i3dx09qef-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/i3dx09qef-java-springboot-gitops
